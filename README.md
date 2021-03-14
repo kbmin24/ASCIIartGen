@@ -1,5 +1,5 @@
 # English
-This is a ASCII Art genertor which gives you a HTML file from a image source & export path and image size. ~~This was just made for a experiment. Dont even expect a single exception handling~~
+This is a ASCII Art genertor which gives you a HTML file from a image source & export path and image size.
 
 Both black/white mode and colour modes are available,however html exported with colour mode takes few minutes to load(with an example of 800x1200 image) and consumes 2GB of RAM with a somewhat modern system with Ryzen 5 3600 and 16GB of RAM. Black&White mode is way better in this aspect.
 # Korean
