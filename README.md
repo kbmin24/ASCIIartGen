@@ -13,4 +13,4 @@ This is a ASCII Art genertor which gives you a HTML file from a image source & e
 
 ![](dotnet_ascii.png)
 
-Images are each from Lovelive!! and Microsoft corp. No copyright infringement intended.
+The images are taken from Lovelive!! and Microsoft corp. No copyright infringement intended.
